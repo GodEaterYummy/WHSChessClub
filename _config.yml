@@ -1,4 +1,4 @@
-remote_theme: pages-themes/architect@v0.2.0
+mremote_theme: pages-themes/architect@v0.2.0
 plugins:
 title: [WHS Chess Club]
-description: [Some basic information about Whitney High's Chess Club]
+description: [Some information about us]
