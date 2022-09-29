@@ -7,4 +7,4 @@ Some basic information about Whitney High School's Chess Club!
 
 
 
-[About us and Contacts](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[About](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
